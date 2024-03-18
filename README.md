@@ -29,7 +29,7 @@ To use the program, simply run the `Program.cs` file. It initializes an array of
 
 ## Contributors
 
-- [Rafael Chasman](https://github.com/rafael1209) - Lead Developer
+- [Rafael Chasman](https://github.com/rafael1209)
 
 ## License
 
