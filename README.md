@@ -29,12 +29,8 @@ To use the program, simply run the `Program.cs` file. It initializes an array of
 
 ## Contributors
 
-- [Your Name](link_to_your_github_profile) - Lead Developer
+- [Rafael Chasman](https://github.com/rafael1209) - Lead Developer
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README to fit your project's specific details and preferences. Good luck with your school project!
+This project is not licensed and is provided as-is without any warranty or support. Feel free to use, modify, and distribute the code as you see fit.
